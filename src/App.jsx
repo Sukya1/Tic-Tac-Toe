@@ -1,11 +1,11 @@
 import './App.css'
-import Board from './Board.jsx'
+import Game from './Board.jsx'
 
 
 function App() {
   return (
     <>
-    <Board/>
+    <Game/>
     </>
   )
 }
